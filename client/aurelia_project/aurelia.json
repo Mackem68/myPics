@@ -1,5 +1,5 @@
 {
-  "name": "myPics",
+  "name": "client",
   "type": "project:application",
   "bundler": {
     "id": "cli",
@@ -151,3 +151,5 @@
     "displayName": "Jasmine"
   }
 }
+//
+//
